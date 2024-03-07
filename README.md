@@ -18,5 +18,6 @@ Some examples of Customer Segmentation using unsupervised learning:
 
 
 Some examples of Movie Recommentation using Collaborative Filtering:
-- https://keras.io/examples/structured_data/collaborative_filtering_movielens/
+- https://www.kaggle.com/code/stpeteishii/movie-recommendation-using-surprise
 - https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/
+- https://keras.io/examples/structured_data/collaborative_filtering_movielens/
