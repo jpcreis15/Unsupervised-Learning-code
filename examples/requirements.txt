@@ -1,0 +1,9 @@
+pandas
+matplotlib
+scikit-learn
+scikit-surprise
+seaborn
+missingno
+plotly
+yellowbrick
+nbformat
